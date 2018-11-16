@@ -1,0 +1,14 @@
+name: qgrid-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - qgrid
+  - pandas-datareader>=0.5.0
+  - matplotlib>=2.1.1
+  - openreview-py=0.9.7
+  - numpy=1.14.3
+  - pandas=0.23.4
+  - qgrid=1.1.1
+  - jellyfish=0.6.1
