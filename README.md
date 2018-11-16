@@ -4,9 +4,12 @@ This repo contains the analysis of ICLR reviews.
 
 ## Usage
 
-If you are not yet on [mybinder.org](), go to the following [url](https://mybinder.org/v2/gh/nd7141/notebooks/master) _or_ just copy/paste the url of this repo into the [mybinder.org]() interface. 
+Click on Binder icon below.
 
-After some time mybinder will load the environment, you can use familiar Jupyter interface. For example, clicking on `ICLR_Reviews.ipynb`, you will open the notebook with the analysis of ICLR reviews. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nd7141/notebooks/master)
+
+
+After some time binder will load the environment and you can use familiar Jupyter interface. For example, clicking on `ICLR_Reviews.ipynb`, you will open the notebook with the analysis of ICLR reviews. 
 
 ## Highlights
 
