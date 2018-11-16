@@ -7,8 +7,9 @@ dependencies:
   - qgrid
   - pandas-datareader>=0.5.0
   - matplotlib>=2.1.1
+  - seaborn
   - pip:
     - openreview-py
-    - numpy=1.14.3
-    - pandas=0.23.4
-    - jellyfish=0.6.1
+    - numpy==1.14.3
+    - pandas==0.23.4
+    - jellyfish==0.6.1
