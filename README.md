@@ -1,7 +1,3 @@
-# About
-
-This repo contains the analysis of ICLR reviews. 
-
 ## Usage
 
 Click on Binder icon below.
