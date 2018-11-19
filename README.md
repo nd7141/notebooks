@@ -34,9 +34,13 @@ Currently analysis includes:
 
 ![](https://github.com/nd7141/notebooks/blob/master/figures/heatmap.png)
 
-* Raw statistics on the reviews such as average review and counts of each score.
+* Number of reviews.
 
 ![](https://github.com/nd7141/notebooks/blob/master/figures/scores.png)
+
+* Raw statistics on the reviews such as average review and counts of each score.
+
+![](https://github.com/nd7141/notebooks/blob/master/figures/stats.png)
 
 
 ## Feedback
