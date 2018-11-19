@@ -26,6 +26,10 @@ Currently analysis includes:
 
 ![](https://github.com/nd7141/notebooks/blob/master/figures/interactive_table.png)
 
+* Frequency by topic. 
+
+![](https://github.com/nd7141/notebooks/blob/master/figures/frequency.png)
+
 * Heatmap of confidence over the reviews. 
 
 ![](https://github.com/nd7141/notebooks/blob/master/figures/heatmap.png)
