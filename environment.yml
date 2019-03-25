@@ -3,10 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - qgrid=1.1.0
   - matplotlib
   - seaborn
   - pip:
+    - qgrid
     - openreview-py
     - numpy
     - pandas
